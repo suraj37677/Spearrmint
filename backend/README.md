@@ -1,2 +1,0 @@
-# MiniStockPriceTrackerBackend
-# MiniStockPriceTrackerBackend
